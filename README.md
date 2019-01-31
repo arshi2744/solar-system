@@ -2,7 +2,7 @@
 
 Experience a fun, interactive, and educational journey through the solar system!
 
-Experience here: [Journey Through the Solar System](https://brijamfitz.github.io/Solar-System/)
+Experience here: [Journey Through the Solar System](https://arshi2744.github.io/solar-system/)
 
 ![image](assets/images/screenshot-solarsystem.png)
 
@@ -20,13 +20,9 @@ Experience here: [Journey Through the Solar System](https://brijamfitz.github.io
 
 &nbsp;
 
-Designed and built by the following developer team:
-* Chandra Raharja
-* Ryan Jae
-* Brian Fitzgerald
 
-Maintained by Brian Fitzgerald
+Maintained by Arshad Hameed
 
-Email: brianjfitzgerald@gmail.com
+Email: arshadhamidpk@yahoo.com
 
 Copyright &#169; 2018
